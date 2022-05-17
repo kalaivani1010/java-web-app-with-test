@@ -1,11 +1,9 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="java.time.LocalDateTime" %>
-<!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
-<h3>July 31 2018 - 2017</h3>
-<h3>Hello from v2</h3>
-<h2>Current time is <%= LocalDateTime.now() %></h2>
-</body>
+  <head>
+    <h2>welcome to our company</h2>
+    <h2> we are ready to service you</h2>
+  </head>
+  <body>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.GuvGvO9QUXiToqcnpbJFvQAAAA&pid=Api&P=0&w=301&h=400" />
+  </body>
 </html>
